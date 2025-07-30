@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG03cHR3aWd1a2k3N3k2cDVpaHRqbjBnZmVoZnNqdGtsaDV3NWY0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1IgwBf9U2jO9g4XbI/giphy.gif" alt="Banner Animado" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb292Z21oZ3dzaXN1bGNtY2o2d2U0c3l2cHR2eGJ5Z2t2aHcyc2wzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J6aDr24v34S4w/giphy.gif" alt="Banner Animado Cortes e Fogo" width="100%"/>
 </p>
 
 <h1 align="center">Guilherme Oliveira de Paula</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=22&duration=4000&color=B91C1C&center=true&vCenter=true&width=800&lines=Técnico+em+Desenvolvimento+de+Sistemas;Desenvolvedor+Web;HTML+%7C+CSS+%7C+JavaScript+%7C+MySQL" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=22&duration=4000&color=B91C1C&center=true&vCenter=true&width=800&lines=Técnico+em+Desenvolvimento+de+Sistemas;Desvendando+a+complexidade,+linha+por+linha;Onde+o+código+obedece." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -14,8 +14,7 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guii-Script&show_icons=true&theme=transparent&bg_color=0D1117&title_color=B91C1C&text_color=E6EDF3&icon_color=B91C1C&rank_icon=github" />
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Guii-Script&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Guii-Script&show_icons=true&theme=transparent&bg_color=0D1117&title_color=B91C1C&text_color=E6EDF3&icon_color=B91C1C&rank_icon=github" />
 </div>
 
 <h3 align="center">Arsenal Tecnológico</h3>
