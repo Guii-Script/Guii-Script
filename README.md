@@ -1,13 +1,6 @@
 <h1 align="center">Guilherme Oliveira de Paula</h1>
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/Guii-Script/count.svg" />
-  <br>
-  <a href="mailto:guilhermedepaula1623@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=B91C1C"></a>
-  <a href="https://www.linkedin.com/in/guilherme-oliveira-de-paula-b66365257/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
-</p>
-<br>
-<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Guii-Script&show_icons=true&theme=transparent&bg_color=0D1117&title_color=B91C1C&text_color=E6EDF3&icon_color=B91C1C&rank_icon=github" alt="GitHub Stats" />
   <br>
