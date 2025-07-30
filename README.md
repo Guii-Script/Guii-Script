@@ -22,8 +22,3 @@
   </a>
 </p>
 <br>
-
-<h3 align="center">Meu Território</h3>
-<p align="center">
-  <img src="https://github.com/Guii-Script/Guii-Script/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
