@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb292Z21oZ3dzaXN1bGNtY2o2d2U0c3l2cHR2eGJ5Z2t2aHcyc2wzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J6aDr24v34S4w/giphy.gif" alt="Banner Animado Cortes e Fogo" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFmYnBxdmJzNnU0ejg0cW5mM21mMHI2YmY2ZzRkb2k5a2JzYmg5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5LhS5D1a2cu1G/giphy.gif" alt="Banner Animado Chamas" width="100%"/>
 </p>
 
 <h1 align="center">Guilherme Oliveira de Paula</h1>
@@ -20,15 +20,10 @@
 <h3 align="center">Arsenal Tecnológico</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,react,nodejs,git,github,vscode,figma,postman,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github,vscode&theme=dark" />
   </a>
 </p>
 <br>
-
-<h3 align="center">Atividade Recente</h3>
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Gráfico de Atividade" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Guii-Script&bg_color=0d1117&color=e6edf3&line=b91c1c&point=B91C1C&area=true&hide_border=true"/></a>
-</p>
 
 <h3 align="center">Meu Território</h3>
 <p align="center">
