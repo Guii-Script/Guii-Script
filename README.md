@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFmYnBxdmJzNnU0ejg0cW5mM21mMHI2YmY2ZzRkb2k5a2JzYmg5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5LhS5D1a2cu1G/giphy.gif" alt="Banner Animado Chamas" width="100%"/>
-</p>
-
 <h1 align="center">Guilherme Oliveira de Paula</h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=22&duration=4000&color=B91C1C&center=true&vCenter=true&width=800&lines=Técnico+em+Desenvolvimento+de+Sistemas;Desvendando+a+complexidade,+linha+por+linha;Onde+o+código+obedece." alt="Typing SVG" /></a>
